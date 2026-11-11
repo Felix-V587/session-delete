@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "会话删除",
+    "description": "在会话右键/更多菜单中永久删除冷会话（含已归档会话），带二次确认与风险提示。",
+    "detail": "docs/plugin-page.zh.md"
+  }
+}

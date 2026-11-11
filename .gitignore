@@ -1,0 +1,10 @@
+# 依赖与构建产物
+node_modules/
+lib/
+*.tsbuildinfo
+
+# 本地临时目录（npm 缓存、迁移备份、浏览器截图）
+.npm-cache/
+.migration-backup/
+.probe-*/
+browser-screenshots/

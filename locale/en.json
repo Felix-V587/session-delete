@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session Delete",
+    "description": "Permanently delete cold sessions (including archived ones) from the session context menu, with double confirmation and an explicit risk warning."
+  }
+}
